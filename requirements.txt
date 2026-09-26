@@ -1,0 +1,4 @@
+discord-py-self
+discord-protos
+string
+re
