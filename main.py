@@ -5,14 +5,14 @@ client = discord.Client()
 
 # ---- CONFIG ---- #
 
-SERVER_ID = 1338486040683483150
+SERVER_ID = 1338486040683483150 # replace with server id you wanna check
 
 FLAGGED_BOT_IDS = [
-    1450060292716494940
+    1450060292716494940 # very very popular honeybot bot (the one everyone uses)
 ]
 
 FLAGGED_IMAGE_URLS = [
-    "https://honeypot.riskymh.dev/honeypot.png"
+    "https://honeypot.riskymh.dev/honeypot.png" # the image the very very popular honey pot bot uses in its embeds
 ]
 
 FLAGGED_NAME_KEYWORDS = [
